@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @oRatoEmo
+- 👀 I’m here just to use it to share my school projects
+- 🌱 I’m currently learning java and object orientation
+- 📫 How to reach me:
+- instagram:  @rato.olv
+- email: gi.passador.oliveira@gmail.com
